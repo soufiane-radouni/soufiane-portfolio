@@ -25,7 +25,7 @@ export const Blog = <Icon icon="uiw:linkedin" />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "Constant learner although Web Dev is not my main goal i enjoyed alot building this SPA with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "Constant learner with Over 5 years of cross-industry experience combined with a diverse background in information technologies and strong business acumen";
 
 /* Skills
  ************************************************************** 
