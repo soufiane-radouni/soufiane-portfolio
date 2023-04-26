@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/soufiane-portfolio/static/css/main.deb5c223.css",
-    "main.js": "/soufiane-portfolio/static/js/main.802d6c31.js",
+    "main.js": "/soufiane-portfolio/static/js/main.62a44205.js",
     "static/media/darkai2.png": "/soufiane-portfolio/static/media/darkai2.566bf2ed21cc27866c6c.png",
     "static/media/alt1.png": "/soufiane-portfolio/static/media/alt1.55d9620c15b835b1904f.png",
     "service-worker.js": "/soufiane-portfolio/service-worker.js",
@@ -9,10 +9,10 @@
     "static/media/logo.svg": "/soufiane-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/soufiane-portfolio/index.html",
     "main.deb5c223.css.map": "/soufiane-portfolio/static/css/main.deb5c223.css.map",
-    "main.802d6c31.js.map": "/soufiane-portfolio/static/js/main.802d6c31.js.map"
+    "main.62a44205.js.map": "/soufiane-portfolio/static/js/main.62a44205.js.map"
   },
   "entrypoints": [
     "static/css/main.deb5c223.css",
-    "static/js/main.802d6c31.js"
+    "static/js/main.62a44205.js"
   ]
 }
