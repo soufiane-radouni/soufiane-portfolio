@@ -11,21 +11,16 @@ import HeroDark from "./images/darkai2.png";
 export { HeroLight as Light };
 export { HeroDark as Dark };
 
-/* START HERE
- **************************************************************
-  Add your GitHub username (string - "YourUsername") below.
-*/
+ // add github username
 export const githubUsername = "soufiane-radouni";
 
 // Blog link icon - https://icon-sets.iconify.design/
 export const Blog = <Icon icon="uiw:linkedin" />;
 
-/* About Me
- **************************************************************
-  Add a second paragraph for the about me section.
-*/
+// About Me
+
 export const moreInfo =
-  "Constant learner with Over 5 years of cross-industry experience combined with a diverse background in information technologies and strong business acumen";
+  "Constant learner with Over 4 years of cross-industry experience combined with a diverse background in information technologies and strong business acumen";
 
 /* Skills
  ************************************************************** 
@@ -97,12 +92,12 @@ export const skillData = [
 export const resume = null;
 
 /* Projects
- ************************************************************** 
-  List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
+  
+  List the repo names you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
 export const filteredProjects = ["example-1", "example-2", "example-3"];
 
-// Replace the defualt GitHub image for matching repos below (images imported above - lines 4-5)
+//GitHub image for matching repos below (images imported above - lines 4-5)
 export const projectCardImages = [
   {
     name: "example-1",
@@ -111,8 +106,6 @@ export const projectCardImages = [
 ];
 
 /* Contact Info
- ************************************************************** 
-  Add your formspree endpoint below.
   https://formspree.io/
 */
 export const formspreeUrl = "https://formspree.io/f/mlekovve";
